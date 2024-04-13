@@ -1,4 +1,4 @@
 class Linha(var nome: String, var bitola: String) {
-    var paragens: MutableList<Paragem> = mutableListOf()
+    var estacoes: MutableList<Estacao> = mutableListOf()
 //    var viagens
 }
